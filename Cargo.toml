@@ -20,7 +20,7 @@ features = ["rt"]
 
 [dependencies.lcd]
 version = "0.2.1-alpha.0"
-path = "../lcd"
+git = "https://github.com/idubrov/lcd"
 
 [profile]
 
